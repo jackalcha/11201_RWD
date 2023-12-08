@@ -1,0 +1,6 @@
+@import url(blog.css);
+@import url(nav.css);
+
+body{
+    background-color: lightblue;
+}
